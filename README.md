@@ -20,9 +20,9 @@ works on any of the following operating systems:
 
 # How to Install
 * Open the terminal and type `<pkg install git>`
-* Then`<git clone https://github.com/4lbH4cker/ALHacking>`
+* Then`<git clone https://github.com/iHavebraincells/Happy Hacking>`
 * `<cd ALHacking>`
-* `<bash alhack.sh>`
+* `<bash trayhack.sh>`
 
 
 # Warning
@@ -30,5 +30,4 @@ works on any of the following operating systems:
 We are not responsible for any misuse or damage caused by this program. Use this tool at your own risk!
 
 
-❤️ Support me:
-https://www.paypal.me/Relvllahi
+
