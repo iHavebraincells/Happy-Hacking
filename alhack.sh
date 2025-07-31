@@ -2,14 +2,14 @@ clear
 mkdir Tools
 clear 
 echo -e '\033[31;40;1m 
-  █████╗ ██╗             ████████╗ ██████╗  ██████╗ ██╗
- ██╔══██╗██║             ╚══██╔══╝██╔═══██╗██╔═══██╗██║
- ███████║██║     ███████╗   ██║   ██║   ██║██║   ██║██║
- ██╔══██║██║     ╚══════╝   ██║   ██║   ██║██║   ██║██║
- ██║  ██║███████╗           ██║   ╚██████╔╝╚██████╔╝███████╗
- ╚═╝  ╚═╝╚══════╝           ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝ v4
-  Coded by 4lbH4cker
-  github: https://github.com/4lbH4cker
+██╗  ██╗ █████╗ ██████╗ ██████╗ ██╗   ██╗    ██╗  ██╗ █████╗  ██████╗██╗  ██╗██╗███╗   ██╗ ██████╗ 
+██║  ██║██╔══██╗██╔══██╗██╔══██╗╚██╗ ██╔╝    ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██║████╗  ██║██╔════╝ 
+███████║███████║██████╔╝██████╔╝ ╚████╔╝     ███████║███████║██║     █████╔╝ ██║██╔██╗ ██║██║  ███╗
+██╔══██║██╔══██║██╔═══╝ ██╔═══╝   ╚██╔╝      ██╔══██║██╔══██║██║     ██╔═██╗ ██║██║╚██╗██║██║   ██║
+██║  ██║██║  ██║██║     ██║        ██║       ██║  ██║██║  ██║╚██████╗██║  ██╗██║██║ ╚████║╚██████╔╝
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝        ╚═╝       ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝ 
+  Coded by Tray
+  github: https://github.com/4lbH4cker discord user is got2muchbandz_
 \033[33;4mVersion:\033[0m 4            \033[33;4mCTRL+C:\033[0m exit          \033[33;4mAuthor:\033[0m 4lbH4cker
 
 \e[37m[1]\e[36m Kërkesat & Përditësimi        \e[37m[2]\e[36m Phishing Tool				
@@ -43,7 +43,7 @@ apt upgrade -y
 clear
 echo -e "\033[47;3;35m Përditësimi i plotë...\033[0m"
 sleep 3
-bash alhack.sh
+bash trayhack.sh
 
 elif [[ $islem == 2 || $islem == 02 ]]; then
 clear
@@ -109,7 +109,7 @@ echo "Youtube Video: https://www.youtube.com/watch?v=zgdq6ErscqY"
 python3 -m webbrowser https://www.youtube.com/watch?v=zgdq6ErscqY
 sleep 10
 echo "Prisni 10 sekonda"
-bash alhack.sh
+bash trayhack.sh
 
  
 elif [[ $islem == 8 || $islem == 08 ]]; then
@@ -118,7 +118,7 @@ echo -e "\033[47;3;35m PO HIQEN PROGRAMET E SHKARKUARA...\033[0m"
 sleep 3 
 rm -rf Tools
 
-bash alhack.sh
+bash trayhack.sh
 
 elif [[ $islem == 9 || $islem == 09 ]]; then
 clear
@@ -245,5 +245,5 @@ else
         echo -e '\033[36;40;1m Keni futur kodin e gabuar'	
 	sleep 1
 	clear 
-	bash alhack.sh
+	bash trayhack.sh
 fi
