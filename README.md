@@ -1,4 +1,4 @@
-Author: 4lbH4cker
+Author: Tray
 ### Version 4
 
 (![image](https://raw.githubusercontent.com/4lbH4cker/ALHacking/main/alhacking.png)
@@ -21,7 +21,7 @@ works on any of the following operating systems:
 # How to Install
 * Open the terminal and type `<pkg install git>`
 * Then`<git clone https://github.com/iHavebraincells/Happy-Hacking>`
-* `<cd ALHacking>`
+* `<cd Happy-Hacking>`
 * `<bash trayhack.sh>`
 
 
