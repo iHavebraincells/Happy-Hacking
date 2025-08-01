@@ -10,12 +10,12 @@ echo -e '\033[31;40;1m
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝        ╚═╝       ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝ 
   Coded by Tray
   github: https://github.com/4lbH4cker discord user is got2muchbandz_
-\033[33;4mVersion:\033[0m 4            \033[33;4mCTRL+C:\033[0m exit          \033[33;4mAuthor:\033[0m 4lbH4cker
+\033[33;4mVersion:\033[0m 4            \033[33;4mCTRL+C:\033[0m exit          \033[33;4mAuthor:\033[0m Tray
 
-\e[37m[1]\e[36m Kërkesat & Përditësimi        \e[37m[2]\e[36m Phishing Tool				
+\e[37m[1]\e[36m Requests & Update        \e[37m[2]\e[36m Phishing Tool				
 \e[37m[3]\e[36m WebCam Hack                   \e[37m[4]\e[36m Subscan			
 \e[37m[5]\e[36m Gmail Bomber		  \e[37m[6]\e[36m DDOS Attack			
-\e[37m[7]\e[36m Si të përdorni ?	          \e[37m[8]\e[36m Çinstaloni programet e shkarkuara		
+\e[37m[7]\e[36m How to use?	          \e[37m[8]\e[36m uninstall downloaded tools	
 \e[37m[9]\e[36m Ip Info	                  \e[37m[10]\e[36m dorks-eye
 \e[37m[11]\e[36m HackerPro                    \e[37m[12]\e[36m RED_HAWK
 \e[37m[13]\e[36m VirusCrafter                 \e[37m[14]\e[36m Info-Site
@@ -47,7 +47,7 @@ bash trayhack.sh
 
 elif [[ $islem == 2 || $islem == 02 ]]; then
 clear
-echo -e "\033[47;3;35m Instalimi mund të marrë pak kohe\033[0m"
+echo -e "\033[47;3;35m installing may take time\033[0m"
 sleep 3
 cd Tools
 git clone https://github.com/htr-tech/zphisher
@@ -56,7 +56,7 @@ bash zphisher.sh
 
 elif [[ $islem == 3 || $islem == 03 ]]; then
 clear
-echo -e "\033[47;3;35m Instalimi mund të marrë pak kohe\033[0m"
+echo -e "\033[47;3;35m installing may take time\033[0m"
 sleep 3
 cd Tools
 git clone https://github.com/techchipnet/CamPhish
@@ -65,7 +65,7 @@ bash camphish.sh
 
 elif [[ $islem == 4 || $islem == 04 ]]; then
 clear
-echo -e "\033[47;3;35m Instalimi mund të marrë pak kohe\033[0m"
+echo -e "\033[47;3;35m installing may take time\033[0m"
 sleep 3
 git clone https://github.com/zidansec/subscan
 cd subscan
@@ -74,7 +74,7 @@ read -p "Jepni nje domain p.sh (example.com): " sc
        
 elif [[ $islem == 5 || $islem == 05 ]]; then
 clear
-echo -e "\033[47;3;35m Instalimi mund të marrë pak kohe\033[0m"
+echo -e "\033[47;3;35m installing may take time\033[0m"
 sleep 3
 cd Tools
 git clone https://github.com/juzeon/fast-mail-bomber.git
